@@ -1,3 +1,3 @@
 # stbi
 
-db file >>>>> db_stbi.sql
+db file >>>>> id10963848_stbi
